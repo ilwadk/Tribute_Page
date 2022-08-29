@@ -1,0 +1,45 @@
+ <style>
+h2{
+font-family:monospace;
+font-size:15px;
+text-align: center;
+}
+h1{
+  font-family:ariel;
+  font-size:30px;
+  text-align:center;
+}
+h3{
+  font-family:brush script MT;
+  font-size:20px;
+  text-align:center;
+
+}
+footer{
+  text-align:center;
+}
+.smaller-image{
+  width: 300px;
+}
+.content{
+  max-width:500px;
+  margin:auto;
+}
+p{
+    font-size:20px;
+}
+  body{
+    background-color:638EAB;
+  }
+  .thick-silver-border{
+    border-color:silver;
+    border-width:20px;
+    border-style:solid;
+  }
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
